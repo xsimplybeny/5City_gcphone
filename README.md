@@ -1,5 +1,5 @@
 
 ## 5City_gcphone
 - Telefon z 5City
-## About script
+## Discord
 - discord: https://discord.gg/Bauyrg2TzD
